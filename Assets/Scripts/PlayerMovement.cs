@@ -6,8 +6,7 @@ public class PlayerMovement : MonoBehaviour {
 	Direction myDir;
 
 	public float speed;
-	Vector3 move;
-	public Animator anim;
+	Vector3 move; Animator anim;
 	public bool useDiagMovement = true;
 
 	// Use this for initialization
