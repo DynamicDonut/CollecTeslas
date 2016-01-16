@@ -11,6 +11,9 @@ public class PlayerMovement : MonoBehaviour {
 	public bool faceLeft;
 	public bool faceRight;
 	bool buttonPress = false;
+
+	bool useDiagMovement = true;
+
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator>();
