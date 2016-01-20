@@ -1,0 +1,2557 @@
+fileFormatVersion: 2
+guid: d343988f8fa96a6499e869567e0087d3
+timeCreated: 1453062936
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3868_0
+    21300002: 3868_1
+    21300004: 3868_2
+    21300006: 3868_3
+    21300008: 3868_4
+    21300010: 3868_5
+    21300012: 3868_6
+    21300014: 3868_7
+    21300016: 3868_8
+    21300018: 3868_9
+    21300020: 3868_10
+    21300022: 3868_11
+    21300024: 3868_12
+    21300026: 3868_13
+    21300028: 3868_14
+    21300030: 3868_15
+    21300032: 3868_16
+    21300034: 3868_17
+    21300036: 3868_18
+    21300038: 3868_19
+    21300040: 3868_20
+    21300042: 3868_21
+    21300044: 3868_22
+    21300046: 3868_23
+    21300048: 3868_24
+    21300050: 3868_25
+    21300052: 3868_26
+    21300054: 3868_27
+    21300056: 3868_28
+    21300058: 3868_29
+    21300060: 3868_30
+    21300062: 3868_31
+    21300064: 3868_32
+    21300066: 3868_33
+    21300068: 3868_34
+    21300070: 3868_35
+    21300072: 3868_36
+    21300074: 3868_37
+    21300076: 3868_38
+    21300078: 3868_39
+    21300080: 3868_40
+    21300082: 3868_41
+    21300084: 3868_42
+    21300086: 3868_43
+    21300088: 3868_44
+    21300090: 3868_45
+    21300092: 3868_46
+    21300094: 3868_47
+    21300096: 3868_48
+    21300098: 3868_49
+    21300100: 3868_50
+    21300102: 3868_51
+    21300104: 3868_52
+    21300106: 3868_53
+    21300108: 3868_54
+    21300110: 3868_55
+    21300112: 3868_56
+    21300114: 3868_57
+    21300116: 3868_58
+    21300118: 3868_59
+    21300120: 3868_60
+    21300122: 3868_61
+    21300124: 3868_62
+    21300126: 3868_63
+    21300128: 3868_64
+    21300130: 3868_65
+    21300132: 3868_66
+    21300134: 3868_67
+    21300136: 3868_68
+    21300138: 3868_69
+    21300140: 3868_70
+    21300142: 3868_71
+    21300144: 3868_72
+    21300146: 3868_73
+    21300148: 3868_74
+    21300150: 3868_75
+    21300152: 3868_76
+    21300154: 3868_77
+    21300156: 3868_78
+    21300158: 3868_79
+    21300160: 3868_80
+    21300162: 3868_81
+    21300164: 3868_82
+    21300166: 3868_83
+    21300168: 3868_84
+    21300170: 3868_85
+    21300172: 3868_86
+    21300174: 3868_87
+    21300176: 3868_88
+    21300178: 3868_89
+    21300180: 3868_90
+    21300182: 3868_91
+    21300184: 3868_92
+    21300186: 3868_93
+    21300188: 3868_94
+    21300190: 3868_95
+    21300192: 3868_96
+    21300194: 3868_97
+    21300196: 3868_98
+    21300198: 3868_99
+    21300200: 3868_100
+    21300202: 3868_101
+    21300204: 3868_102
+    21300206: 3868_103
+    21300208: 3868_104
+    21300210: 3868_105
+    21300212: 3868_106
+    21300214: 3868_107
+    21300216: 3868_108
+    21300218: 3868_109
+    21300220: 3868_110
+    21300222: 3868_111
+    21300224: 3868_112
+    21300226: 3868_113
+    21300228: 3868_114
+    21300230: 3868_115
+    21300232: 3868_116
+    21300234: 3868_117
+    21300236: 3868_118
+    21300238: 3868_119
+    21300240: 3868_120
+    21300242: 3868_121
+    21300244: 3868_122
+    21300246: 3868_123
+    21300248: 3868_124
+    21300250: 3868_125
+    21300252: 3868_126
+    21300254: 3868_127
+    21300256: 3868_128
+    21300258: 3868_129
+    21300260: 3868_130
+    21300262: 3868_131
+    21300264: 3868_132
+    21300266: 3868_133
+    21300268: 3868_134
+    21300270: 3868_135
+    21300272: 3868_136
+    21300274: 3868_137
+    21300276: 3868_138
+    21300278: 3868_139
+    21300280: 3868_140
+    21300282: 3868_141
+    21300284: 3868_142
+    21300286: 3868_143
+    21300288: 3868_144
+    21300290: 3868_145
+    21300292: 3868_146
+    21300294: 3868_147
+    21300296: 3868_148
+    21300298: 3868_149
+    21300300: 3868_150
+    21300302: 3868_151
+    21300304: 3868_152
+    21300306: 3868_153
+    21300308: 3868_154
+    21300310: 3868_155
+    21300312: 3868_156
+    21300314: 3868_157
+    21300316: 3868_158
+    21300318: 3868_159
+    21300320: 3868_160
+    21300322: 3868_161
+    21300324: 3868_162
+    21300326: 3868_163
+    21300328: 3868_164
+    21300330: 3868_165
+    21300332: 3868_166
+    21300334: 3868_167
+    21300336: 3868_168
+    21300338: 3868_169
+    21300340: 3868_170
+    21300342: 3868_171
+    21300344: 3868_172
+    21300346: 3868_173
+    21300348: 3868_174
+    21300350: 3868_175
+    21300352: 3868_176
+    21300354: 3868_177
+    21300356: 3868_178
+    21300358: 3868_179
+    21300360: 3868_180
+    21300362: 3868_181
+    21300364: 3868_182
+    21300366: 3868_183
+    21300368: 3868_184
+    21300370: 3868_185
+    21300372: 3868_186
+    21300374: 3868_187
+    21300376: 3868_188
+    21300378: 3868_189
+    21300380: 3868_190
+    21300382: 3868_191
+    21300384: 3868_192
+    21300386: 3868_193
+    21300388: 3868_194
+    21300390: 3868_195
+    21300392: 3868_196
+    21300394: 3868_197
+    21300396: 3868_198
+    21300398: 3868_199
+    21300400: 3868_200
+    21300402: 3868_201
+    21300404: 3868_202
+    21300406: 3868_203
+    21300408: 3868_204
+    21300410: 3868_205
+    21300412: 3868_206
+    21300414: 3868_207
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3868_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 255
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 255
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 255
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 255
+        width: 22
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 255
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 255
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_8
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 255
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 255
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 255
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 231
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 231
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_18
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_19
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 231
+        width: 22
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_21
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 231
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_23
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 209
+        width: 19
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 209
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 209
+        width: 21
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_26
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 209
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 209
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_28
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 209
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 209
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 209
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_31
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 209
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_32
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 209
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 209
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_34
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 205
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_35
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 205
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 205
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 205
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_38
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 205
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_39
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 205
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_40
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 205
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 205
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 15
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 185
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_44
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 185
+        width: 19
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_45
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 185
+        width: 22
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 185
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 185
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_48
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 185
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 185
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 185
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 185
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 185
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_53
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_54
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_57
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_58
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_59
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_60
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 185
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 162
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 162
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 162
+        width: 19
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_65
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 162
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_66
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 162
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_67
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 162
+        width: 13
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_68
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 162
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 160
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_70
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 160
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_71
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 160
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 160
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_73
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 160
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_74
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 160
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 161
+        width: 21
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_76
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 160
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 160
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_78
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 161
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_79
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_80
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 161
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_82
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_83
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_86
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_87
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 138
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_88
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 138
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 138
+        width: 17
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_90
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 138
+        width: 21
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_91
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 138
+        width: 18
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_92
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 138
+        width: 19
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_93
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 138
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_94
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 138
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_95
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 138
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_96
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 117
+        width: 28
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_97
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 138
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_98
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 139
+        width: 21
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_99
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 139
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_100
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 139
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_101
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_102
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 117
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 117
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 117
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_105
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_106
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 117
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_107
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 117
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_109
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 117
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 117
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_111
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_112
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 14
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_113
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 117
+        width: 18
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_114
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 117
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_115
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 117
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_116
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_117
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 117
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_118
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 117
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_119
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 117
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_120
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 117
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_121
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 117
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 19
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_123
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 94
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_124
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 94
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 94
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_126
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 94
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_127
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 94
+        width: 23
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_128
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 94
+        width: 17
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_129
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 94
+        width: 20
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_130
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 94
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_131
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 94
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_132
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_133
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 94
+        width: 20
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_134
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 94
+        width: 18
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_135
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 94
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_136
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 94
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_137
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 94
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_138
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 94
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_139
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 94
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_140
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 94
+        width: 17
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_141
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 94
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_143
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 71
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_144
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 71
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_145
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 71
+        width: 22
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_146
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 71
+        width: 10
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_147
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 15
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_148
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_149
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 71
+        width: 14
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_150
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 71
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_151
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 71
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_152
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 71
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_153
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 71
+        width: 10
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_154
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 71
+        width: 20
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_155
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 69
+        width: 22
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_156
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 69
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_157
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 69
+        width: 20
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_158
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 69
+        width: 21
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_159
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 69
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_160
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_161
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 74
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_162
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 74
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_163
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 74
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_164
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 153
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.5, y: 68}
+        - {x: -76.5, y: 0}
+        - {x: 76.5, y: 0}
+        - {x: 76.5, y: 68}
+    - name: 3868_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_166
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_167
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_168
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_169
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_171
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_172
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 45
+        width: 14
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_173
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_174
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_175
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_176
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_177
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_178
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_179
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 45
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_180
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 22
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_181
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 22
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_182
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 22
+        width: 15
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_183
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 22
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_184
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 22
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_185
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 22
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_186
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 22
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_187
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 22
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_188
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 22
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_189
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 22
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_190
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 22
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_191
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 22
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_192
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 22
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_193
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 22
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_194
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 22
+        width: 13
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_195
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_196
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_197
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_198
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_199
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_200
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_201
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_202
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_203
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_204
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2
+        width: 18
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_205
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_206
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 2
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3868_207
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
