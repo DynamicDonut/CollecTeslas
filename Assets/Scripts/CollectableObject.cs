@@ -7,17 +7,25 @@ public class CollectableObject : MonoBehaviour {
 
 	[Range(1f, 10f)]
 	public int val = 1;
+	public Sprite mySprite;
+	//public Sprite[] defaultSprites;
 
-	// Use this for initialization
+	void Awake(){
+		if (mySprite != null) {
+			GetComponent<SpriteRenderer> ().sprite = mySprite;
+		}
+	}
+
 	void Start () {
 		SpriteRenderer myRend = GetComponent<SpriteRenderer> ();
-		
-		if (myColType == CollectableType.Rubber) {
-			myRend.color = Color.red;
-		} else if (myColType == CollectableType.Memento) {
-			myRend.color = Color.blue;
-		} else {
-			myRend.color = Color.white;
+		if (mySprite == null) {
+			if (myColType == CollectableType.Rubber) {
+				myRend.color = Color.red;
+			} else if (myColType == CollectableType.Memento) {
+				myRend.color = Color.blue;
+			} else {
+				myRend.color = Color.white;
+			}
 		}
 	}
 }
