@@ -8,8 +8,11 @@ public class CollectingSystem : MonoBehaviour {
     void Update() {
         if (myElectricity >= 20) {
             myElectricity = 20;
-        } else if (myElectricity <= 0) {
+		} else if (myElectricity > 0) {
+			this.gameObject.GetComponent<PlayerMovement> ().lowPower = false;
+		} else if (myElectricity <= 0) {
             myElectricity = 0;
+			this.gameObject.GetComponent<PlayerMovement> ().lowPower = true;
         }
 
         this.gameObject.GetComponent<PlayerUIManager>().pBarVal = myElectricity * 10.0f;
