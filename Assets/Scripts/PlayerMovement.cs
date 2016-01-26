@@ -5,20 +5,20 @@ public class PlayerMovement : MonoBehaviour {
 	enum Direction {Up, Down, Left, Right};
 	Direction myDir;
 
-	public float speed;
-	Vector3 move; Animator anim;
-	public bool useDiagMovement = true;
+    public bool useDiagMovement = true;
+    public bool canMove;
 
+    public float speed;
 	public int lockPos = 0;
 	//bool buttonPress = false;
-	public bool canMove;
 	private bool attacking = false;
 	private bool jumping = false;
 
 	BoxCollider2D atkRange;
 	CircleCollider2D hurtBox;
+    Vector3 move; Animator anim;
 
-	private Transform myPlayer;
+    private Transform myPlayer;
 	public int enemyDamage = 1;
 
 	void Awake(){

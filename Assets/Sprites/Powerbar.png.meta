@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: b87eb01c87f026548bfa91369504c91d
+timeCreated: 1453776719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Powerbar_1
+    21300002: Powerbar_7
+    21300004: Powerbar_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Powerbar_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 537
+        height: 195
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 246, y: 52}
+        - {x: 262, y: 41}
+        - {x: 262, y: 55}
+        - {x: 261, y: 56}
+        - {x: 267, y: 53}
+        - {x: 266, y: 49}
+        - {x: 265, y: 43}
+        - {x: 266, y: 26}
+        - {x: 468, y: 9}
+        - {x: 537, y: 87}
+        - {x: 537, y: 144}
+        - {x: 479, y: 187}
+        - {x: 100, y: 187}
+        - {x: 79, y: 178}
+        - {x: 67, y: 152}
+        - {x: 66, y: 140}
+        - {x: 69, y: 139}
+        - {x: 71, y: 139}
+        - {x: 72, y: 140}
+        - {x: 75, y: 138}
+        - {x: 72, y: 139}
+        - {x: 67, y: 139}
+        - {x: 60, y: 134}
+        - {x: 26, y: 129}
+        - {x: 18, y: 125}
+        - {x: 15, y: 114}
+        - {x: 20, y: 112}
+        - {x: 22, y: 112}
+        - {x: 18, y: 112}
+        - {x: 0, y: 115}
+        - {x: 0, y: 47}
+        - {x: 113, y: 7}
+        - {x: 207, y: 14}
+        - {x: 207, y: 41}
+        - {x: 206, y: 47}
+        - {x: 202, y: 51}
+        - {x: 201, y: 51}
+        - {x: 209, y: 52}
+        - {x: 216, y: 46}
+        - {x: 229, y: 14}
+        - {x: 235, y: 1}
+        - {x: 274, y: 1}
+        - {x: 270, y: 10}
+        - {x: 242, y: 58}
+      - - {x: 64, y: 38}
+        - {x: 76, y: 27}
+        - {x: 82, y: 27}
+        - {x: 87, y: 35}
+        - {x: 87, y: 45}
+        - {x: 84, y: 49}
+        - {x: 71, y: 49}
+        - {x: 64, y: 43}
+      - - {x: 308, y: 40}
+        - {x: 303, y: 40}
+        - {x: 302, y: 37}
+        - {x: 302, y: 33}
+        - {x: 304, y: 31}
+        - {x: 308, y: 31}
+        - {x: 310, y: 33}
+        - {x: 310, y: 39}
+      - - {x: 306, y: 44}
+        - {x: 309, y: 45}
+        - {x: 309, y: 48}
+        - {x: 306, y: 49}
+        - {x: 304, y: 47}
+      - - {x: 534, y: 110}
+        - {x: 536, y: 108}
+        - {x: 537, y: 108}
+        - {x: 537, y: 113}
+        - {x: 535, y: 113}
+      - - {x: 0, y: 116}
+        - {x: 0, y: 110}
+        - {x: 3, y: 110}
+        - {x: 5, y: 112}
+        - {x: 5, y: 114}
+        - {x: 3, y: 116}
+    - name: Powerbar_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 66
+        width: 404
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202, y: 22.5}
+        - {x: -202, y: -22.5}
+        - {x: 202, y: -22.5}
+        - {x: 202, y: 22.5}
+    - name: Powerbar_8
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 13
+        width: 404
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -202, y: 22.5}
+        - {x: -202, y: -22.5}
+        - {x: 202, y: -22.5}
+        - {x: 202, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
