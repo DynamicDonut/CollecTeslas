@@ -34,7 +34,6 @@ public class PlayerMovement : MonoBehaviour {
 		hurtBox = GetComponent<CircleCollider2D> ();
 		anim = GetComponent<Animator>();
 		//anim.Play ("Player_IdleD", -1);
-
 		atkRange.enabled = false;
 	}
 	
@@ -76,30 +75,30 @@ public class PlayerMovement : MonoBehaviour {
 		if (myDir == Direction.Down) {
 			if (Input.GetKey (KeyCode.DownArrow)) {
 				if (!useDiagMovement){ move = Vector3.down; }
-				anim.Play ("Player_WalkD", -1);
+				anim.Play ("Walk_D", -1);
 			} else {
-				anim.Play ("Player_IdleD", -1);
+				anim.Play ("Idle_D", -1);
 			}
 		} else if (myDir == Direction.Up) {
 			if (Input.GetKey (KeyCode.UpArrow)) {
 				if (!useDiagMovement){ move = Vector3.up; }
-				anim.Play ("Player_WalkU", -1);
+				anim.Play ("Walk_U", -1);
 			} else {
-				anim.Play ("Player_IdleU", -1);
+				anim.Play ("Idle_U", -1);
 			}
 		} else if (myDir == Direction.Left) {
 			if (Input.GetKey (KeyCode.LeftArrow)) {
 				if (!useDiagMovement){ move = Vector3.left; }
-				anim.Play ("Player_WalkL", -1);
+				anim.Play ("Walk_L", -1);
 			} else {
-				anim.Play ("Player_IdleL", -1);
+				anim.Play ("Idle_L", -1);
 			}
 		} else if (myDir == Direction.Right) {
 			if (Input.GetKey (KeyCode.RightArrow)) {
 				if (!useDiagMovement){ move = Vector3.right; }
-				anim.Play ("Player_WalkR", -1);
+				anim.Play ("Walk_R", -1);
 			} else {
-				anim.Play ("Player_IdleR", -1);
+				anim.Play ("Idle_R", -1);
 			}
 		}
 
@@ -123,20 +122,18 @@ public class PlayerMovement : MonoBehaviour {
 		yield return new WaitForSeconds (2f);
 		attacking = false;
 		if (myDir == Direction.Down) {
-			anim.Play ("Player_IdleD", -1);
+			anim.Play ("Idle_D", -1);
 			//buttonPress = false;
 		} else if (myDir == Direction.Right) {
-			anim.Play ("Player_IdleR", -1);	
+			anim.Play ("Idle_R", -1);	
 			//buttonPress = false;
 		} else if (myDir == Direction.Left) {
-			anim.Play ("Player_IdleL", -1);	
+			anim.Play ("Idle_L", -1);	
 			//buttonPress = false;
 		} else if (myDir == Direction.Up) {
-			anim.Play ("Player_IdleU", -1);
+			anim.Play ("Idle_U", -1);
 			//buttonPress = false;
 		}
-		
-		
 	}
 
 	IEnumerator Jump() {
@@ -147,16 +144,16 @@ public class PlayerMovement : MonoBehaviour {
 		jumping = false;
 		//speed -= 10;
 		if (myDir == Direction.Down) {
-			anim.Play ("Player_IdleD", -1);
+			anim.Play ("Idle_D", -1);
 			//buttonPress = false;
 		} else if (myDir == Direction.Right) {
-			anim.Play ("Player_IdleR", -1);	
+			anim.Play ("Idle_R", -1);	
 			//buttonPress = false;
 		} else if (myDir == Direction.Left) {
-			anim.Play ("Player_IdleL", -1);	
+			anim.Play ("Idle_L", -1);	
 			//buttonPress = false;
 		} else if (myDir == Direction.Up) {
-			anim.Play ("Player_IdleU", -1);
+			anim.Play ("Idle_U", -1);
 			//buttonPress = false;
 		}
 	}
