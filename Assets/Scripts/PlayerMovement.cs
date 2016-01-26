@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour {
 	enum Direction {Up, Down, Left, Right};
 	Direction myDir;
 
+	public AudioClip[] musicLib;
     public bool useDiagMovement = true;
     public bool canMove;
 
@@ -13,6 +14,7 @@ public class PlayerMovement : MonoBehaviour {
 	//bool buttonPress = false;
 	private bool attacking = false;
 	private bool jumping = false;
+	bool lowPower = false;
 
 	BoxCollider2D atkRange;
 	CircleCollider2D hurtBox;
@@ -39,6 +41,18 @@ public class PlayerMovement : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (Input.GetKeyUp(KeyCode.Keypad0)) {
+			lowPower = !lowPower;
+
+			if (lowPower) {
+				GetComponent<AudioSource> ().clip = musicLib [1];
+			} else {
+				GetComponent<AudioSource> ().clip = musicLib [0];
+			}
+
+			GetComponent<AudioSource> ().Play ();
+		}
+
 		transform.rotation = Quaternion.Euler (transform.rotation.eulerAngles.x, lockPos, lockPos);
 		if (jumping) { 
 			hurtBox.isTrigger = true;
