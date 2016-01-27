@@ -14,9 +14,6 @@ public class MusicManager : MonoBehaviour {
 		myMusic = GetComponent<AudioSource> ();
 		myMusic.clip = musicLib [0];
 		myMusic.Play ();
-
-		Camera.main.gameObject.AddComponent<SmoothCamera> ();
-		Camera.main.gameObject.GetComponent<SmoothCamera> ().target = myPlayer.transform;
 	}
 
 	// Update is called once per frame
