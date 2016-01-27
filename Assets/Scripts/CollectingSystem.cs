@@ -4,14 +4,25 @@ using System.Collections;
 public class CollectingSystem : MonoBehaviour {
 	public int myElectricity = 0;
 	public int myKeys = 0;
+	GameObject gameManager;
+
+	void Start () {
+		gameManager	= GameObject.Find ("GameManager");
+	}
 
     void Update() {
         if (myElectricity >= 20) {
             myElectricity = 20;
 		} else if (myElectricity > 0) {
+			if (this.gameObject.GetComponent<PlayerMovement> ().lowPower == true) {
+				gameManager.GetComponent<MusicManager> ().swapMusic = true;
+			}				
 			this.gameObject.GetComponent<PlayerMovement> ().lowPower = false;
 		} else if (myElectricity <= 0) {
             myElectricity = 0;
+			if (this.gameObject.GetComponent<PlayerMovement> ().lowPower == false) {
+				gameManager.GetComponent<MusicManager> ().swapMusic = true;
+			}	
 			this.gameObject.GetComponent<PlayerMovement> ().lowPower = true;
         }
 
