@@ -20,12 +20,10 @@ public class PlayerMovement : MonoBehaviour {
     Vector3 move; Animator anim;
 
     private Transform myPlayer;
-	GameObject gameManager;
 	public int enemyDamage = 1;
 
 	void Awake(){
 		myPlayer = GameObject.FindGameObjectWithTag ("Player").transform;
-		gameManager	= GameObject.Find ("GameManager");
 	}
 
 	// Use this for initialization

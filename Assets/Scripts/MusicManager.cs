@@ -3,14 +3,13 @@ using System.Collections;
 
 public class MusicManager : MonoBehaviour {
 	public AudioClip[] musicLib;
-	GameObject myPlayer;
-	AudioSource myMusic;
+	public GameObject myPlayer;
+	public AudioSource myMusic;
 
 	public bool swapMusic = false;
 
 	// Use this for initialization
 	void Start () {
-		myPlayer = GameObject.Find ("Player");
 		myMusic = GetComponent<AudioSource> ();
 		myMusic.clip = musicLib [0];
 		myMusic.Play ();

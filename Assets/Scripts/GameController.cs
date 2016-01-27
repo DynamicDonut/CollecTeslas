@@ -6,7 +6,7 @@ using System.Collections;
 public class GameController : MonoBehaviour {
 	GameObject myUI;
 	Text collText, collText_under;
-	Color examColorA, examColorB;
+	Color examColorA, examColorB, examColorC;
 
 	public Texture2D fadeOutTexture;
 	public float fadeSpd = 0.8f;
@@ -20,12 +20,7 @@ public class GameController : MonoBehaviour {
 	}
 
 	void Start () {
-		myUI = GameObject.Find ("UI");
-
-		collText_under = myUI.transform.FindChild ("CollectText (Underlay)").GetComponent<Text> ();
-		collText = collText_under.transform.FindChild ("CollectText").GetComponent<Text> ();
-
-		examColorA = Color.white; examColorB = Color.black;
+		examColorA = examColorC = Color.white; examColorB = Color.black;
 		examColorA.a = 0f; examColorB.a = 0f;
 	}
 	
@@ -35,6 +30,11 @@ public class GameController : MonoBehaviour {
 			if (Input.GetKeyUp (KeyCode.Space)) {
 				StartCoroutine (swapScene ("MainLevel"));
 			}
+		} else if (SceneManager.GetActiveScene ().name == "MainLevel") {
+			myUI = GameObject.Find ("UI");
+			collText_under = myUI.transform.FindChild ("CollectText (Underlay)").GetComponent<Text> ();
+			collText = collText_under.transform.FindChild ("CollectText").GetComponent<Text> ();
+			this.gameObject.GetComponent<MusicManager>().myPlayer = GameObject.Find ("Player");
 		} else if (SceneManager.GetActiveScene ().name == "EndScreen") {
 			if (Input.GetKeyUp (KeyCode.Space)) {
 				StartCoroutine (swapScene ("StartScreen"));
@@ -62,6 +62,10 @@ public class GameController : MonoBehaviour {
 		float fadeTime = BeginFade (1);
 		yield return new WaitForSeconds (fadeTime);
 		SceneManager.LoadScene (sceneName);
+
+		if (sceneName == "StartScreen") {
+			Destroy (this.gameObject);
+		}
 	}
 
 	void OnLevelWasLoaded(){
@@ -74,13 +78,17 @@ public class GameController : MonoBehaviour {
 		while (collText.color.a < 1 && collText_under.color.a < 1) {
 			examColorA.a += 0.83f;
 			examColorB.a += 0.83f;
+			examColorC.a -= 0.83f;
 			collText.color = examColorA;
 			collText_under.color = examColorB;
+			source.GetComponent<SpriteRenderer> ().color = examColorC;
+			source.transform.FindChild ("Interact Text").gameObject.SetActive (false);
 		}
 		yield return new WaitForSeconds (3);
 		while (collText.color.a > 0 && collText_under.color.a > 0) {
 			examColorA.a -= 0.83f;
 			examColorB.a -= 0.83f;
+			examColorC.a += 0.83f;
 			collText.color = examColorA;
 			collText_under.color = examColorB;
 		}

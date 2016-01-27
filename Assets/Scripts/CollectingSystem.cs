@@ -4,11 +4,11 @@ using System.Collections;
 public class CollectingSystem : MonoBehaviour {
 	public int myElectricity = 0;
 	public int myMementos = 0;
-	GameObject gameManager, trashCollision;
+	public AudioClip[] sfxSound;
+	GameObject gameManager;
 
 	void Start () {
 		gameManager	= GameObject.Find ("GameManager");
-		trashCollision = GameObject.Find ("Trash Collision");
 	}
 
     void Update() {
@@ -34,6 +34,7 @@ public class CollectingSystem : MonoBehaviour {
 		if (col2d.gameObject.tag == "Collectable") {
 			if(col2d.gameObject.GetComponent<CollectableObject>().myColType == CollectableObject.CollectableType.Electricity){
 				myElectricity += col2d.gameObject.GetComponent<CollectableObject>().val;
+				GetComponent<AudioSource> ().PlayOneShot (sfxSound[0]);
 			}
 
 			Destroy(col2d.gameObject);
